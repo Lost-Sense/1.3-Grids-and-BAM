@@ -7,19 +7,19 @@
 
 @font-face {
   font-family: TTLakes;
-  src: url(fonts/TTLakes/TTLakes-Regular.ttf);
+  src: url("fonts/TTLakes/TTLakes-Regular.ttf");
   font-weight: normal;
 }
 
 @font-face {
   font-family: TTLakes;
-  src: url(fonts/TTLakes/TTLakes-Bold.ttf);
+  src: url("fonts/TTLakes/TTLakes-Bold.ttf");
   font-weight: bold;
 }
 
 @font-face {
   font-family: TTLakes;
-  src: url(fonts/TTLakes/TTLakes-DemiBold.ttf);
+  src: url("fonts/TTLakes/TTLakes-DemiBold.ttf");
   font-weight: 600;
 }
 
@@ -185,7 +185,7 @@ li {
 }
 
 .main__link::before {
-  content: url(/img/expand.png);
+  content: url("img/expand.png");
   position: absolute;
   height: 24px;
   width: 24px;
